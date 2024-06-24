@@ -1,0 +1,45 @@
+* {
+    margin: 0;
+    bottom: 0;
+    box-sizing: border-box;
+}
+
+.container {
+    /* width: 1250px; */
+    padding: 5px 50px;  
+}
+.header {
+}
+.logo {
+    display: flex;
+}
+
+.logo img {
+    width: 500px;
+    height: 115px;
+}
+
+.logo select {
+    margin: 20px;
+    padding: 10px 10px;
+    border: none;
+    background-color: rgba(110, 106, 106, 0);
+    cursor: pointer;
+}
+
+a {
+    margin: 30px;
+    margin-top: 50px;
+    text-decoration: none;
+    color: black;
+}
+
+a button {
+    padding: 15px;
+    border-radius: 9px;
+    border: none;
+    background-color: #fff;
+    border: 1px solid rgb(175, 175, 63);
+}
+.data {
+}
